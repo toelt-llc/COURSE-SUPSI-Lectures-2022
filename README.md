@@ -10,3 +10,7 @@ In this lecture we will look at a brief introduction to TensorFlow and Keras. Li
 3. Hands-on session
 
 The hands-on session will be based mostly on one [Jupyter Notebook](https://github.com/toelt-llc/SUPSI-Lectures-2022/blob/main/1%20-%20Keras%20and%20TF/code/Easy_Network_with_Keras.ipynb).
+
+## Additional Material
+
+A nice video introduction to Google Colab can be found in [this video](https://www.youtube.com/watch?v=HW29067qVWk&t=212s). The official website can be found [here](https://jupyter.org).
