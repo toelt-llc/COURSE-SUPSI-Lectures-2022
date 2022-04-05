@@ -1,6 +1,10 @@
 # SUPSI Lectures - Spring 2022
 This repositories contains the material for 4 lectures given at the Italian university of applied science in Switzerland.
 
+# Online Material
+
+A lot of material on Deep Learning and nueral network can be found at my [book companion website](https://adl.toelt.ai). My book (Applied Deep Learning with TensorFlow 2 published by Springer/APRESS) can be [bought here](https://link.springer.com/book/10.1007/978-1-4842-8020-1).
+
 # Lecture 1 - 7th April 2022 - Introduction to Keras and Jupyter Notebooks
 
 In this lecture we will look first at  Jupyter notebooks. Those are the common tool used by data scientists and machine learning engineering during the exploratory phase of the machine learning pipeline. We will look at Google Colab, an online version of Jupyter notebooks that does not require any local installation. We will use this tool during our lectures. After that we will look at TensorFlow and Keras and how they work. We will look at very basic examples leaving advanced usage to further study. Finally we will have a hands-on session in which we will use Keras to build a very easy neural network to classify images.
@@ -23,7 +27,18 @@ The hands-on session will be based mostly on one [Jupyter Notebook](https://gith
 
 # Lecture 2 - 11th April 2022 - Introduction to Autoencoders
 
-Material coming soon.
+In this lecture we will look at what autoencoders are and what you can do with those special neural network architecture. A complete introduction can be found in [this paper](https://arxiv.org/abs/2201.03898). We will look at the following topics
+
+- What are autoencoders ([Introduction Paper](https://arxiv.org/abs/2201.03898))
+- Denoising autoencoders
+- Autoencoders for dimensionality reduction
+
+## Code examples
+
+- [Your first autoencoder](https://colab.research.google.com/github/toelt-llc/ADL-Book-2nd-Ed/blob/master/docs/Autoencoders/Your_first_autoencoder_with_Keras.ipynb)
+- [Anomaly Detection with autoencoders](https://colab.research.google.com/github/toelt-llc/ADL-Book-2nd-Ed/blob/master/docs/Autoencoders/Anomaly_detection_with_autoencoders.ipynb)
+- [Denoising Autoencoders with Feed Forward Neural Networks](https://colab.research.google.com/github/toelt-llc/ADL-Book-2nd-Ed/blob/master/docs/Autoencoders/Denoising_autoencoders_with_FFNN.ipynb)
+- [Denoising Autoencoders with Convolutional Neural Networks](https://colab.research.google.com/github/toelt-llc/ADL-Book-2nd-Ed/blob/master/docs/Autoencoders/Denoising_autoencoders_with_CNN.ipynb)
 
 # Lecture 3 - 23rd May 2022 - Introduction to Generative Adversarial Networks
 
