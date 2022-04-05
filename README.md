@@ -13,4 +13,8 @@ The hands-on session will be based mostly on one [Jupyter Notebook](https://gith
 
 ## Additional Material
 
-A nice video introduction to Google Colab can be found in [this video](https://www.youtube.com/watch?v=HW29067qVWk&t=212s). The official website for the jupyter notebook project can be found [here](https://jupyter.org). 
+- A nice video introduction to Google Colab can be found in [this video](https://www.youtube.com/watch?v=HW29067qVWk&t=212s). The official website for the jupyter notebook project can be found [here](https://jupyter.org). 
+
+- You can also find an introduction to Neural Networks in the slides for a lecture given by Umberto Michelucci at the ETH university in Zürich, Switzerland. They are google slides and should be accessible online easily.
+
+  [Lecture on Neural Networks](https://docs.google.com/presentation/d/1SbPDwVeBwG4FoV1ySLGyc6C2C8r0vcKgEF4v8IvaSlE/edit?usp=sharing)
