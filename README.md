@@ -13,4 +13,4 @@ The hands-on session will be based mostly on one [Jupyter Notebook](https://gith
 
 ## Additional Material
 
-A nice video introduction to Google Colab can be found in [this video](https://www.youtube.com/watch?v=HW29067qVWk&t=212s). The official website can be found [here](https://jupyter.org). 
+A nice video introduction to Google Colab can be found in [this video](https://www.youtube.com/watch?v=HW29067qVWk&t=212s). The official website for the jupyter notebook project can be found [here](https://jupyter.org). 
