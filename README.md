@@ -23,10 +23,10 @@ The hands-on session will be based mostly on one [Jupyter Notebook](https://gith
 
 Material coming soon.
 
-# Lecture 2 - 11th April 2022 - Introduction to Generative Adversarial Networks
+# Lecture 2 - 23rd May 2022 - Introduction to Generative Adversarial Networks
 
 Material coming soon.
 
-# Lecture 2 - 11th April 2022 - Use cases discussion in Industry and Research
+# Lecture 2 - 30th May 2022 - Use cases discussion in Industry and Research
 
 Material coming soon.
