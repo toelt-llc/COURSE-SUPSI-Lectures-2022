@@ -1,7 +1,7 @@
 # SUPSI Lectures - Spring 2022
 This repositories contains the material for 4 lectures given at the Italian university of applied science in Switzerland.
 
-# Lecture 1 - 7th April 2022 - Introduction to Keras
+# Lecture 1 - 7th April 2022 - Introduction to Keras and Jupyter Notebooks
 
 In this lecture we will look at a brief introduction to TensorFlow and Keras. Library used to build and train neural networks in an easy and efficient way. The lecture will be divided in a theory block and an easy hands-on part. We will touch the following topics
 
