@@ -18,3 +18,15 @@ The hands-on session will be based mostly on one [Jupyter Notebook](https://gith
 - You can also find an introduction to Neural Networks in the slides for a lecture given by Umberto Michelucci at the ETH university in Zürich, Switzerland. They are google slides and should be accessible online easily.
 
   [Lecture on Neural Networks](https://docs.google.com/presentation/d/1SbPDwVeBwG4FoV1ySLGyc6C2C8r0vcKgEF4v8IvaSlE/edit?usp=sharing)
+
+# Lecture 2 - 11th April 2022 - Introduction to Autoencoders
+
+Material coming soon.
+
+# Lecture 2 - 11th April 2022 - Introduction to Generative Adversarial Networks
+
+Material coming soon.
+
+# Lecture 2 - 11th April 2022 - Use cases discussion in Industry and Research
+
+Material coming soon.
