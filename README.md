@@ -3,7 +3,9 @@ This repositories contains the material for 4 lectures given at the Italian univ
 
 # Lecture 1 - 7th April 2022 - Introduction to Keras and Jupyter Notebooks
 
-In this lecture we will look at a brief introduction to TensorFlow and Keras. Library used to build and train neural networks in an easy and efficient way. The lecture will be divided in a theory block and an easy hands-on part. We will touch the following topics
+In this lecture we will look first at  Jupyter notebooks. Those are the common tool used by data scientists and machine learning engineering during the exploratory phase of the machine learning pipeline. We will look at Google Colab, an online version of Jupyter notebooks that does not require any local installation. We will use this tool during our lectures. After that we will look at TensorFlow and Keras and how they work. We will look at very basic examples leaving advanced usage to further study. Finally we will have a hands-on session in which we will use Keras to build a very easy neural network to classify images.
+
+## Link to the lecture material
 
 1. [Google colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true) - An Introduction
 2. Keras and TensorFlow - An Introduction [PowerPoint Download Link](https://github.com/toelt-llc/SUPSI-Lectures-2022/blob/main/1%20-%20Keras%20and%20TF/Quick%20Keras%20Overview.pptx)
@@ -11,7 +13,7 @@ In this lecture we will look at a brief introduction to TensorFlow and Keras. Li
 
 The hands-on session will be based mostly on one [Jupyter Notebook](https://github.com/toelt-llc/SUPSI-Lectures-2022/blob/main/1%20-%20Keras%20and%20TF/code/Easy_Network_with_Keras.ipynb).
 
-## Additional Material
+## Additional and Bonus Material
 
 - A nice video introduction to Google Colab can be found in [this video](https://www.youtube.com/watch?v=HW29067qVWk&t=212s). The official website for the jupyter notebook project can be found [here](https://jupyter.org). 
 
