@@ -42,7 +42,9 @@ In this lecture we will look at what autoencoders are and what you can do with t
 
 # Lecture 3 - 23rd May 2022 - Introduction to Generative Adversarial Networks
 
-Material coming soon.
+A lot of code is available for GANs. 
+
+**WARNING**: the code is slow and on a normal laptop may take several hours. So you are warned. In general you can download the jupyter notebooks and use them on google colab, but also there it will get at least 4 hours to get some decent results. The examples that we will run (and the time you will see in the notebook are coming from a professional deep learning machine with 3 RTX A6000 professional graphic cards.
 
 # Lecture 4 - 30th May 2022 - Use cases discussion in Industry and Research
 
