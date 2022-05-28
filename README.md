@@ -48,4 +48,4 @@ A lot of code is available for GANs.
 
 # Lecture 4 - 30th May 2022 - Use cases discussion in Industry and Research
 
-Material coming soon.
+The presentation can be found [HERE](https://github.com/toelt-llc/SUPSI-Lectures-2022/blob/main/4%20-%20Use%20Cases/SUPSI_Michelucci_AI_Lecture_UseCases.pptx). No code examples are available for this lecture.
